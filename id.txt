@@ -1,0 +1,34 @@
+ID usados:
+473 introduccion
+477 quienes somos
+483 proyectos en ejecucion
+488 proyectos realizados
+491 investigadores
+499 contactenos
+558 inicio
+887 resumen 							TEINICU0003924TC
+892 directores 							TEINICU0003924TC
+895 investigadores 						TEINICU0003924TC
+844 resumen 							TEINICU0002143TC
+850 directores 							TEINICU0002143TC
+853 investigadores 						TEINICU0002143TC
+898 resumen 							TEINICU0002187TC
+900 directores 							TEINICU0002187TC
+902 investigadores 						TEINICU0002187TC
+904 articulos							TEINICU0002187TC
+993 resumen 							25-D053
+997 directores 							25-D053
+1001 investigadores 					25-D053
+1015 articulos 							25-D053
+1078 resumen 							25-D022
+1080 directores 						25-D022
+1082 investigadores 					25-D022
+1085 resumen 							25-D013
+1087 directores 						25-D013
+1089 investigadores 					25-D013
+1131 resumen 							25-H014
+1133 directores 						25-H014
+1135 investigadores 					25-H014
+1137 resumen 							25-D035
+1139 directores 						25-D035
+1141 investigadores 					25-D035
